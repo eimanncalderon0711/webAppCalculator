@@ -1,29 +1,5 @@
-// const number = document.querySelectorAll('.number');
-// const result = document.querySelector('.result span');
-
-
-// let firstInput = "";
-// let firstFlag = false;
-// let secondInput = "";
-// let secondFlag = false;
-// let sign = "";
-// let resultOutput = 0;
-
-// for(let i = 0; i < number.length; i++){
-//     number[i].addEventListener('click', (e) => {
-//         let atr = e.target.getAttribute('value');
-//         if(firstFlag === false){
-//             getFirstInput(atr)
-//         }
-//     })
-// }
-
-// function getFirstInput(el){
-//     result.innerHTML = "";
-//     firstInput += el;
-//     result.innerHTML = firstInput;
-//     firstInput = +firstInput;
-// }
+//EIMANN JOSHUA CALDERON
+//BSIT - 2R6
 
 const number = document.querySelectorAll('.number');
 const symbol = document.querySelectorAll('.symbol');
